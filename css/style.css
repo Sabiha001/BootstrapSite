@@ -1,0 +1,11 @@
+.bg{
+	background-color: red;
+	min-height: 100px;
+	margin-bottom: 20px;
+}
+
+.bg-flex{
+	background-color: red;
+	
+	margin-bottom: 20px;
+}
